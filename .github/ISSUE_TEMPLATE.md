@@ -1,5 +1,4 @@
 <!-- This form is for bug reports and feature requests ONLY!
-Also make sure that you visit our User Guide at https://kubevirt.io/user-guide/
 -->
 
 **Is this a BUG REPORT or FEATURE REQUEST?**:
